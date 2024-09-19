@@ -39,6 +39,8 @@ public class Main {
 		
 		
 		
+		
+		
 
 		
 		
@@ -48,9 +50,11 @@ public class Main {
 						+ " than "+subject2+". "+person2+" said it was the"
 								+ " opposite because he got a "+score1+" in "+subject1+" and"
 										+ " a "+score2+" in "+subject2+".In reality both of"
-												+ " them were not right because "+subject3+" is the worst and the hardest."
+												+ " them were wrong because "+subject3+" is the worst and the hardest."
 														+ "It takes "+num2+" hours to "
-																+ "revise it only to get a "+num3+" on your test.");
+																+ "revise it only to get a "+num3+" on your test. This might not sound like"
+																		+ "a funny story but trust me it really is, and thank me later for advising "
+																		+ "you not to take any Biology classes. ");
 	
 		
 		
